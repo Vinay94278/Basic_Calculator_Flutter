@@ -18,15 +18,15 @@ Description: Basic Calculator App using Flutter
 💡 Future Enhancements:
   While the current version of the app covers the essential functionalities of a basic calculator, there are several exciting features that can be implemented in future updates:
 
-Scientific Calculator: Introduce advanced mathematical functions, such as trigonometric functions, logarithms, exponentials, and more.
+1. Scientific Calculator: Introduce advanced mathematical functions, such as trigonometric functions, logarithms, exponentials, and more.
 
-Memory Functions: Add memory buttons (M+, M-, MR, MC) to store and recall previously calculated values.
+2. Memory Functions: Add memory buttons (M+, M-, MR, MC) to store and recall previously calculated values.
 
-Theme Options: Allow users to customize the app's appearance by choosing from different color themes or even creating their own.
+3. Theme Options: Allow users to customize the app's appearance by choosing from different color themes or even creating their own.
 
-Unit Conversions: Incorporate unit conversion capabilities, enabling users to convert between various measurement units, currencies, or other commonly used conversions.
+4. Unit Conversions: Incorporate unit conversion capabilities, enabling users to convert between various measurement units, currencies, or other commonly used conversions.
 
 🔨 Contribution:
-  I welcome contributions from fellow developers who are interested in improving the app. Feel free to fork the repository, make enhancements, and submit pull requests. Let's work together to make this calculator app even better!
+I welcome contributions from fellow developers who are interested in improving the app. Feel free to fork the repository, make enhancements, and submit pull requests. Let's work together to make this calculator app even better!
 
 Thank you for exploring my Basic Calculator app description. Download the app, calculate away, and don't forget to leave your feedback and suggestions. Happy calculating!
